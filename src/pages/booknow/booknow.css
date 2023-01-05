@@ -1,0 +1,122 @@
+.leftsection {
+    margin: 0;
+    padding-bottom: 7px !important;
+}
+
+.top_heading {
+    text-align: center !important;
+    font: normal normal bold 24px/30px Quicksand !important;
+    letter-spacing: 0px !important;
+    color: #252525 !important;
+    opacity: 1 !important;
+    padding-top: 24px !important;
+}
+
+.ticket_details {
+    margin: auto !important;
+    margin-top: 18px !important;
+    width: 914px !important;
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 0px 10px #00000036 !important;
+    border-radius: 20px !important;
+    opacity: 1 !important;
+}
+
+.para_head {
+    text-align: left !important;
+    font: normal normal bold 20px/25px Quicksand !important;
+    letter-spacing: 0px !important;
+    color: #252525 !important;
+    opacity: 1 !important;
+    margin-left: 24px !important;
+    padding-top: 24px !important;
+
+}
+
+.deals {
+    display: flex !important;
+    /* justify-content: center !important; */
+    /* text-align: center !important; */
+}
+
+.deal_const {
+    display: block !important;
+    padding: 25px !important;
+    /* text-align: start !important; */
+
+}
+
+.txt_m {
+    font: normal normal bold 16px/2px Quicksand !important;
+    letter-spacing: 0px !important;
+    color: #006FFF !important;
+    opacity: 1 !important;
+    margin-left: 30px !important;
+}
+
+.txt_small {
+    letter-spacing: 0px !important;
+    font-size: 12px !important;
+    line-height: 1;
+    font-weight: 500 !important;
+    color: #707070 !important;
+    margin-left: 30px !important;
+    margin-top: 10px !important;
+}
+
+.txt_small1 {
+    letter-spacing: 0px !important;
+    font-size: 12px !important;
+    line-height: 1;
+    font-weight: 500 !important;
+    color: #707070 !important;
+    margin-left: 30px !important;
+    margin-top: 0px !important;
+}
+
+.time_up {
+    font: normal normal bold 20px/2px Quicksand !important;
+    letter-spacing: 0px !important;
+    color: #006FFF !important;
+    opacity: 1 !important;
+}
+
+
+.guidline {
+    text-align: left !important;
+    font: normal normal bold 16px/2px Quicksand !important;
+    letter-spacing: 0px !important;
+    color: #006FFF !important;
+    opacity: 1 !important;
+    margin-left: 22px !important;
+    margin-top: 12px !important;
+}
+
+.list_item {
+    font: normal normal bold 16px Quicksand !important;
+    color: #707070;
+}
+
+
+.main_he {
+    font: normal normal bold 16px Quicksand !important;
+    color: black !important;
+    display: flex;
+    justify-content: center;
+}
+
+.main_m {
+    font: normal normal bold 12px Quicksand !important;
+    color: #707070 !important;
+    display: flex;
+    justify-content: center;
+}
+
+.fare_summery {
+    height:auto;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+    opacity: 1;
+    margin: 10px;
+}
